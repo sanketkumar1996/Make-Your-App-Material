@@ -1,0 +1,15 @@
+<resources>
+    <!-- list -->
+    <dimen name="list_side_margin">64dp</dimen>
+    <dimen name="list_toolbar_side_margin">52dp</dimen> <!-- minus 64 - 12 -->
+    <integer name="list_column_count">3</integer>
+
+    <!-- detail -->
+    <dimen name="detail_card_max_width">704dp</dimen>
+    <dimen name="title_margin_start">32dp</dimen>
+    <dimen name="title_margin_end">32dp</dimen>
+    <dimen name="body_margin_top">32dp</dimen>
+
+    <dimen name="bodytext_margin_left">32dp</dimen>
+    <dimen name="bodytext_margin_right">32dp</dimen>
+</resources>
